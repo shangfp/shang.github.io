@@ -1,10 +1,12 @@
-## Welcome to GitHub Pages
+## 紫檀 记录于42岁生日@雅典 用最少的浪费面对现在
 
-You can use the [editor on GitHub](https://github.com/shangfp/shang.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+用每周记录的方式督促自己进步 [待编辑](https://github.com/shangfp/shang.github.io/edit/gh-pages/index.md) 待编辑.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+我们能记住生日的，一定是我们在意且爱着的人；如果你在意的对方不记得你的生日，也请释怀，毕竟最重要的是你先要爱自己 [爱自己](https://jekyllrb.com/) .
 
-### Markdown
+### 2021
+* 2021年8月26日  [标题](https://github.com/shangfp/shang.github.io)
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
